@@ -1,0 +1,1 @@
+# rs_map_explore_version
